@@ -37,11 +37,17 @@ const Hero = () => {
             className="rounded-full cursor-pointer linkedin"
             color="#6b21a8"
           />
-          <AiFillGithub
-            size={40}
-            className="rounded-full cursor-pointer github"
-            color="#6b21a8"
-          />
+          <a
+            href="https://github.com/Beyond-Logic/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <AiFillGithub
+              size={40}
+              className="rounded-full cursor-pointer github"
+              color="#6b21a8"
+            />
+          </a>
         </div>
       </div>
       <div className="mdl:mt-0 mt-20 mdl:mb-0 mb-10">
