@@ -2,7 +2,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { NavBar } from "./components";
 import { Contact, Home, Services } from "./pages";
-import "animate.css";
 
 function App() {
   return (
