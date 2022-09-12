@@ -17,6 +17,7 @@ body {
 input {
   border-color: #fff;
   border-width: 1px !important;
+  border-radius: none;
 }
 textarea {
   border-width: 1px !important;
