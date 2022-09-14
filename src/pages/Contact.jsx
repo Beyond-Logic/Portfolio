@@ -37,7 +37,7 @@ const Contact = () => {
 
   console.log(form);
   return (
-    <div className="animate__animated animate__fadeIn mdl:mb-0 mb-20">
+    <div className="animate__animated animate__fadeIn mb-20">
       <h1 className="mdl:text-5xl text-3xl mld:mt-10 mt-14 text-center mb-20">
         Get In Touch
       </h1>

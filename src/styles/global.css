@@ -12,6 +12,8 @@
 
 body {
   overflow-x: hidden;
+  background: no-repeat;
+  background-repeat: no-repeat;
 }
 
 input {
